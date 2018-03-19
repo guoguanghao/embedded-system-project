@@ -1,0 +1,126 @@
+V "GNAT Lib v4.4"
+M P W=b
+P SS ZX
+R nnnnnnvnnnnnnnnnnnvnvvvnvnnnvnvvnnnnnnnnnvnnnnvnvnvnnnnvnvvnnnnnnnnnnnv1+nnnv1+nn
+
+U producerconsumer%b	producerconsumer_sem.adb  35b9205c NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.discrete_random%s
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.real_time.delays%s  a-retide.adb		a-retide.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W interfaces%s		interfac.ads		interfac.ali
+W semaphores%s		semaphores.adb		semaphores.ali
+W system%s		system.ads		system.ali
+W system.arith_64%s	s-arit64.adb		s-arit64.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+W system.string_ops_concat_5%s  s-sopco5.adb	s-sopco5.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W system.tasking.protected_objects.operations%s  s-tpobop.adb  s-tpobop.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W system.val_int%s	s-valint.adb		s-valint.ali
+
+D ada.ads		20070406091342 9c7dd3ea
+D a-calend.ads		20090409232307 19486c30
+D a-except.ads		20090409232307 b54b55de
+D a-finali.ads		20090409232307 9eaacebd
+D a-filico.ads		20090409232307 9299732a
+D a-ioexce.ads		20070406091342 be0900a0
+D a-numeri.ads		20080324174807 1cf3e608
+D a-nudira.ads		20090409232307 56734efa
+D a-nudira.adb		20090409232307 cb202240
+D a-reatim.ads		20090409232307 7c462ab4
+D a-retide.ads		20090409232307 60afaac3
+D a-stream.ads		20090409232307 34aca5be
+D a-tags.ads		20090409232307 bfa07446
+D a-textio.ads		20090409232307 fe8af46e
+D a-unccon.ads		20070406091342 51e09df2
+D interfac.ads		20090409232307 a69cad5c
+D i-c.ads		20070406091342 bc3ef662
+D i-cstrea.ads		20090409232307 e1e064a9
+D producerconsumer_sem.adb  20170920152756 91fb7898
+D semaphores.ads	20170920075836 70fdc8e4
+D system.ads		20100127085936 15e10948
+D s-atacco.ads		20090409232307 60789a20
+D s-arit64.ads		20090409232307 ded5f422
+D s-crtl.ads		20090409232307 997234a1
+D s-exctab.ads		20090409232307 5c1c61ae
+D s-ficobl.ads		20090409232307 8bb681e5
+D s-finimp.ads		20090409232307 9449f4cb
+D s-finroo.ads		20090409232307 1408f9d1
+D s-imgint.ads		20090409232307 f77d133c
+D s-linux.ads		20090409232307 ad070dbe
+D s-osinte.ads		20080408064315 b04c0edf
+D s-parame.ads		20090409232307 f32e56e9
+D s-secsta.ads		20090409232307 7bae3621
+D s-soflin.ads		20090409232307 0c6fd39d
+D s-stache.ads		20090409232307 257b3be8
+D s-stausa.ads		20090409232307 6ab7dd35
+D s-stalib.ads		20090409232307 52b793d5
+D s-stoele.ads		20090409232307 ed966df3
+D s-stoele.adb		20090409232307 e9998c78
+D s-stratt.ads		20090409232307 fef7c1da
+D s-strops.ads		20090409232307 845f72d2
+D s-sopco3.ads		20090409232307 72ce1063
+D s-sopco4.ads		20090409232307 bc112723
+D s-sopco5.ads		20090409232307 191315e8
+D s-tasinf.ads		20090409232307 268f0cd4
+D s-taspri.ads		20080408071349 5459bcd0
+D s-taprop.ads		20090409232307 25a7965c
+D s-taskin.ads		20090409232307 376ff2dd
+D s-taprob.ads		20090409232307 5e00115c
+D s-tpoben.ads		20090409232307 37be425d
+D s-tpobop.ads		20090409232307 ccd38b83
+D s-tassta.ads		20090409232307 71d2b71d
+D s-traent.ads		20090409232307 bd5f2753
+D s-unstyp.ads		20090409232307 c0f9fae5
+D s-valint.ads		20090409232307 d23209d2
+D s-wchcon.ads		20090409232307 ab028799
+X 1 ada.ads
+16K9*Ada 19e8 19|1r6 2r5 4r6 5r5 7r6 23r32
+X 7 a-numeri.ads
+16K13*Numerics 32e17 19|7r10 23r36
+X 8 a-nudira.ads
+50k22*Discrete_Random 114e33 19|7w19 23r45
+63R9 Generator 19|25r8[23]
+65V13 Random{integer} 19|45r38[23] 61r38[23]
+X 10 a-reatim.ads
+39K13*Real_Time 139e18 19|4w10 5r9
+41O9*Time 19|34r14 51r14
+46O9*Time_Span
+53V13*Clock{41O9} 19|36r15 53r15
+55V13*"+"{41O9} 19|45r23 61r23
+85V13*Milliseconds{46O9} 19|45r25 61r25
+X 14 a-textio.ads
+48K13*Text_IO 506e16 19|1w10 2r9
+263U14*Put_Line 19|59r18
+X 19 producerconsumer_sem.adb
+12U11*ProducerConsumer 12b11 68l5 68t21
+14i4 X{integer} 17r20 41m10 59r41
+15i4 N{integer} 37r19 54r19
+22I12 Delay_Interval{integer} 23r62
+23K12 Random_Delay[8|50] 24r8
+25r4 G{8|63R9[23]} 45r45 61r45
+27w4 S1{20|4W19} 40r18 58r18
+29t9 Producer 33b14 48t7
+31t9 Consumer 50b14 64t7
+34o7 Next{10|41O9} 36m7 45m10 45r18 46r22
+37i11 I{integer} 41r15
+51o7 Next{10|41O9} 53m7 61m10 61r18 62r22
+54i11 I{integer}
+X 20 semaphores.ads
+3K9*Semaphores 19|9w6 10r5 20|11e15
+4W19*CountingSemaphore 19|27r8 20|10e25
+5Y13 Wait 19|58r21
+6Y13 Signal 19|40r21
+
